@@ -1,4 +1,4 @@
-![](https://github.com/debjit1702/Debjit1702/blob/main/banner.png)
+![](https://github.com/debjit1702/Debjit1702/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Debjit Biswas</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
