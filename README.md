@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_debjit1702" target="blank"><img src="https://img.shields.io/twitter/follow/_debjit1702?logo=twitter&style=for-the-badge" alt="_debjit1702" /></a> </p>
 
-- 🔭 I’m currently working on [NetZeroBiz](https://github.com/debjit1702/NetZeroBiz)
+- 🔭 I’m currently working on [WeFundr](https://github.com/debjit1702/WeFundr)
 
 - 🌱 I’m currently learning **javascript**
 
